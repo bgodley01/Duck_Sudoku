@@ -1,4 +1,12 @@
 """
+Project Title: Sudoku Solver (3D underwater edition!)
+
+Author: Braden Godley
+
+Credits: CIS 211 Starter Code
+"""
+
+"""
 A Sudoku board holds a matrix of tiles.
 Each row and column and also sub-blocks
 are treated as a group (sometimes called
